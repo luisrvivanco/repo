@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta charset ="UTV-8">
+<title>TITULO</title>
+</head>
+<body>
+<h1 align="center"> 
+</h1>
+<h2>
+</h2>
+<p>  Parrafo
+</p>
+</body>
+</html>
+
+<html>
+<head>
+<meta charset ="UTV-8">
+<title>TITULO</title>
+</head>
+<body>
+<h1> List
+
+
+<li>
+</li>              
+</ul> 
+</h1>
+<h2>
+</h2>
+<p>  Parrafo
+</p>
+</body>
+</html>
+
+
+
+<ul>             // union de lelos  // under list
+
+<li>
+</li>            // laser infernal
+
+<ol>     // orden list //  oso lila
